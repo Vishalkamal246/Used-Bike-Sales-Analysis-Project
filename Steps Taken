@@ -1,0 +1,13 @@
+Key Steps in Analysis:
+• Data Collection: Gathered used bike listings data.
+• Data Cleaning: Removed duplicates, fixed missing values, ensured consistent formats.
+• Data Modelling: Loaded data into Power BI Desktop.
+• Visualization: Built dashboards showing top models, top cities, ownership impact on
+price.
+• Insights & Trends: Derived patterns in pricing, demand by city, and model popularity.
+Techniques Used: Power Bi
+• Data Transformation & Filtering
+• Interactive Dashboard Creation
+• Trend Analysis by Year & Ownership
+• Geo-mapping of top cities
+• Comparative Analysis of Price vs Ownership
